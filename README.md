@@ -1,2 +1,2 @@
-# javase-java-io-examples
-How to work with files
+# java-io-examples
+How to use files in java
